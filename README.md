@@ -136,4 +136,4 @@ Displaying data for Петров
 
 <a href="https://github.com/iliaamakarov">Ilia Makarov</a>
 
-<a href="https://github.com/VHursevich">Vadim Hursevich</a>
+<a href="https://github.com/AbnerRoseline">Vadim Hursevich</a>

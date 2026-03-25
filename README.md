@@ -3,9 +3,9 @@
 
 --- 
 ## Description
-This is a repository for documenting the <a href="https://github.com/iliaamakarov/tpmp-lab4-code-publication">Fishing flotilla management system</a> as well as managing cooperative work through projects.
+This is a repository for documenting the <a href="https://github.com/iliaamakarov/tpmp-lab4-code-publication">Fishing flotilla management system</a> as well as managing cooperative work through <a href="https://github.com/orgs/fpmi-tpmp2026/projects/16">projects</a>.
 
-All documentation can be found on this repository's <a href="https://github.com/fpmi-tpmp2026/tpmp-gr13b-lab4-bestest-team/wiki">wiki</a>
+All documentation can be found on this repository's <a href="https://github.com/fpmi-tpmp2026/tpmp-gr13b-lab4-bestest-team/wiki">__wiki__</a>
 
 This includes both the description for the main `flotilla` project as well as for the `personal` projects assigned seperately.
 
